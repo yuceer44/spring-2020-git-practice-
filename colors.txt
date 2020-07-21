@@ -4,4 +4,3 @@ yellow
 and more
 blue
 purple
-redd
