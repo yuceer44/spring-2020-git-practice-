@@ -2,4 +2,4 @@ red
 pink
 yellow
 and more
-blue
+blue 2
