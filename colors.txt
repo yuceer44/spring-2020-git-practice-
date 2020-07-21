@@ -3,6 +3,3 @@ pink
 yellow
 and more
 blue
-purple
-redd
-redd3
