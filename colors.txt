@@ -6,4 +6,3 @@ blue
 purple
 redd
 redd3
-blue2
